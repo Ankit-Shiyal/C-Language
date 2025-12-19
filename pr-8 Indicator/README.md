@@ -122,5 +122,3 @@ Cubes:
 * Nested loops
 
 ---
-
-⭐ *These programs are useful for understanding pointers and array handling in C.*
